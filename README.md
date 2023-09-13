@@ -1,5 +1,6 @@
 # Yusynth-WaveFolder
 Adaptation du Yusynth [WaveFolder](http://yusynth.net/Modular/index_en.html) au format Eurorack
+Testé et fonctionnel
 
 
 
